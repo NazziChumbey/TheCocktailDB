@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">The Cocktail DB</string>
+    <string name="history_is_empty">History is empty</string>
 </resources>
